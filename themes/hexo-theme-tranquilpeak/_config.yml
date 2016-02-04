@@ -112,13 +112,13 @@ header:
 # Author
 # Your biography and your job is editable in each languages files in `languages` folder
 author:
-    email:
+    email: begining1003@gmail.com
     location:
     # Your profile picture located in folder `source/_images/` (development)
     # or in `source/assets/images/` (production)
     # or you can use an external url
     # Overwritten by your gravatar image if `gravatar_email` is filled
-    picture:
+    picture: LOGO.jpg
     # Your Twitter username without the @. E.g : `tranquilpeak`
     twitter:
     # Your google plus profile id. E.g : `+Tranquilpeak` or `123812884128439`
@@ -183,11 +183,3 @@ swiftype_install_key:
 fb_admin_ids:
 # Your Facebook app id used to connect your blog with your facebook app account (Facebook Insights). E.g : 9841307
 fb_app_id:
-
-
-# Comment
-comment:
-    disqus: gdgk # enter disqus shortname here
-    duoshuo: # enter duoshuo shortname here
-    youyan: # enter youyan uid here
-
