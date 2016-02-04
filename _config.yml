@@ -69,4 +69,6 @@ theme: hexo-theme-hueman-master
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
-  type:
+  type: git
+  repo: git@github.com:gdgkoahsiung/gdgk-blog-hexo.git
+  branch: master
