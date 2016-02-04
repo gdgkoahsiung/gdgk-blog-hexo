@@ -71,4 +71,4 @@ theme: hexo-theme-hueman-master
 deploy:
   type: git
   repo: git@github.com:gdgkoahsiung/gdgk-blog-hexo.git
-  branch: master
+  branch: gh-pages
