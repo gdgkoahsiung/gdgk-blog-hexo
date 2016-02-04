@@ -1,0 +1,3 @@
+[submodule "themes/hexo-theme-hueman"]
+	path = themes/hexo-theme-hueman
+	url = git@github.com:ppoffice/hexo-theme-hueman.git
