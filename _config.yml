@@ -6,13 +6,13 @@
 title: GDGK
 subtitle: Google Developer Group Koahsiung
 description:
-author: weitsai
+author: Google Developer Group Koahsiung
 language:
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: https://www.facebook.com/groups/AKDGroup
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -63,8 +63,9 @@ pagination_dir: page
 # Extensions
 ## Plugins: http://hexo.io/plugins/
 ## Themes: http://hexo.io/themes/
-theme: tranquilpeak
+#theme: tranquilpeak
 #theme: landscape
+theme: hexo-theme-tranquilpeak
 
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
