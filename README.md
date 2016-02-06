@@ -4,6 +4,8 @@ Google Develop Kashsiung 從 2014 年 3 月成立，社群名稱原為「Android
 
 我們持續尋找講者與志工，若有興趣想要投稿或是了解我們歡迎寄信到 [benging1003@gmail.com](mailto:begining1003@gmail.com)。
 
+![GDG_benner](source/assets/images/banner.jpg)
+
 ### 社群聯絡方式
 - Facebook 粉絲團：[https://www.facebook.com/groups/AKDGroup](https://www.facebook.com/groups/AKDGroup)
 - 活動通（目前活動發佈）：[http://www.accupass.com/org/detail/r/1502251731101672014022/1/0](http://www.accupass.com/org/detail/r/1502251731101672014022/1/0)
