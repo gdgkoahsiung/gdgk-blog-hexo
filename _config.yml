@@ -7,7 +7,7 @@ title: GDGK
 subtitle: Google Developer Group Koahsiung
 description:
 author: Google Developer Group Koahsiung
-language:
+language: zh-tw
 timezone:
 
 # URL
@@ -63,9 +63,9 @@ pagination_dir: page
 # Extensions
 ## Plugins: http://hexo.io/plugins/
 ## Themes: http://hexo.io/themes/
-#theme: tranquilpeak
+theme: tranquilpeak
 #theme: landscape
-theme: hexo-theme-tranquilpeak
+# theme: hexo-theme-tranquilpeak
 
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
